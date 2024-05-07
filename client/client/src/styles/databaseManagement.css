@@ -1,0 +1,41 @@
+/* databaseManagement.css */
+
+.database-management {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .database-management h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .database-management div {
+    margin-bottom: 20px;
+  }
+  
+  .database-management input[type="text"],
+  .database-management input[type="email"],
+  .database-management input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .database-management button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .database-management button:hover {
+    background-color: #0056b3;
+  }
+  
